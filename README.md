@@ -20,7 +20,7 @@ sudo xbps-install -S plymouth
 ```
 
 ### 2. Copy the theme files
-Assuming you have cloned/downloaded the required files (`resources` and `void-mac-style.plymouth`), copy them to the Plymouth themes directory:
+Assuming you have cloned/downloaded the repo, copy the void-mac-style directory to the Plymouth themes directory:
 ```bash
 sudo cp -r void-mac-style/ /usr/share/plymouth/themes/
 ```
