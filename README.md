@@ -3,7 +3,7 @@
 
 A custom Plymouth boot animation for Void Linux, inspired by the macOS boot animation. This theme uses the structure of the original Mac-Style Plymouth themes but features custom Void Linux branding and assets.
 
-![Boot Animation Demo](void-mac-style.gif)
+![Boot Animation Demo](demo.gif)
 
 ## Important Notes & Known Limitations
 
@@ -63,6 +63,5 @@ Reboot your system to enjoy your new Void Linux boot animation.
 
 - **Original Theme Structure & Inspiration**: Huge thanks to tobilinuxer for the original `linux-mac-style` Plymouth theme (and eren16 for the original base work). You can find the original project [here on GNOME-Look](https://www.gnome-look.org/p/2106821).
 - **Custom Assets**: The official Void Linux logo and other graphical assets used in this theme are custom-made, but heavily inspired by the original creator's design and layout.
-```
 
 
